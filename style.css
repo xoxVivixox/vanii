@@ -1,0 +1,29 @@
+/*universal selector*/
+*{
+    color:rgb(209, 195, 209)
+}
+/*element selector*/
+
+h1{
+    color:rgb(255, 160, 173)
+}
+
+/*class selector*/
+.pink{
+    color:rgb(255, 160, 173)
+}
+/*id selector*/
+#h3_id{
+    color:rgb(255, 160, 173)
+}
+#h5_id{
+    color:rgb(255, 160, 173)
+}
+
+#p_id{
+    color:hsl(255, 160, 173)
+}
+
+body{
+    background:rgba(253, 213, 223, 0.986)
+}
